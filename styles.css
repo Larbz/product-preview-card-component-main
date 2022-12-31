@@ -116,7 +116,7 @@ p{
     .card{
         display: flex;
         padding-bottom: unset;
-        max-width: 550px;
+        max-width: 35em;
         width: auto;
     }
     .card__img{
