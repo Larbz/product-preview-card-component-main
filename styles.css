@@ -19,6 +19,10 @@ html,body{
     font-size: 100%;
     background-color: var(--Cream);
 }
+body{
+    display: grid;
+    place-items: center;
+}
 p{
     font-size: .875rem;
 }
