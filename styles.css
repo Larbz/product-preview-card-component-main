@@ -25,7 +25,7 @@ p{
 .attribution { font-size: .6875rem; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 .card{
-    width: 98%;
+    width: 375px;
     margin: 2% auto;
     background-color: var(--White);
     border-radius: .7em;
@@ -116,8 +116,8 @@ p{
     .card{
         display: flex;
         padding-bottom: unset;
-        height: 50%;
-        width: 50%;
+        max-width: 550px;
+        width: auto;
     }
     .card__img{
         max-height: unset;
